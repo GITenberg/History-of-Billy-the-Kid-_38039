@@ -1,0 +1,31 @@
+_repo: History-of-Billy-the-Kid-_38039
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38039-h/images/back_cover.jpg
+creator:
+  author:
+    agent_name: Siringo, Charles A.
+    alias: Siringo, Chas. A.
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '39216'
+    url: http://www.gutenberg.org/2009/agents/39216
+description: ''
+gutenberg_issued: '2011-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38039'
+  lccn: '20014449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Billy, the Kid'
+- !lcsh 'Outlaws -- Southwest, New -- Biography'
+- !lcsh 'Frontier and pioneer life -- Southwest, New'
+- !lcsh 'Southwest, New -- History -- 1848-'
+- !lcc 'F786'
+title: History of "Billy the Kid"
+url: http://www.gutenberg.org/ebooks/38039
